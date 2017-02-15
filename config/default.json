@@ -1,0 +1,8 @@
+{
+    "domain": "http://localhost:3000",
+    "port": 80,
+    "compressionThreshold": 512,
+    "host": "localhost",
+    "maxAge": "1d",
+    "development": true
+}
